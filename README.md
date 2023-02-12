@@ -1,6 +1,11 @@
 # TempoStudio
 Unity/C# portion of Bits &amp; Bop's audio engine
 
+## Intallation
+1. Grab TempoStudio.dll from the [Bits & Bops Demo](https://store.steampowered.com/app/1929290/Bits__Bops/)
+2. Put it in your Unity project
+3. Profit
+
 Nothing more than a simple decompilation. It's not guarenteed that everything works, but this is all I could find.
 
 Nothing here is magic, and everything here you or anyone could easily decompile yourself. Do not ask me to make a full decompilation for the commercial release. This is merely for convience and educational purposes.
